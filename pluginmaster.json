@@ -3,7 +3,7 @@
     "Author": "Tuconei",
     "Name": "VIP Name Checker",
     "InternalName": "VipNameChecker",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.1.0",
     "Description": "Highlights VIP players from a Google Sheet.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
