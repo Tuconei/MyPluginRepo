@@ -1,0 +1,49 @@
+[
+  {
+    "Author": "Tuconei",
+    "Name": "VIP Name Checker",
+    "InternalName": "VipNameChecker",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Highlights VIP players from a Google Sheet.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "Tags": [
+      "utility",
+      "vip"
+    ],
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanLoadAsync": false,
+    "SupportsProfiles": true,
+    "IconUrl": "",
+    "ImageUrls": [],
+    "Punchline": "Highlights specific players from a google sheet.",
+    
+    "DownloadLinkInstall": "https://github.com/Tuconei/VIP-Manager/releases/download/v0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Tuconei/VIP-Manager/releases/download/v0.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Tuconei/VIP-Manager/releases/download/v0.1/latest.zip"
+  }
+]
+
+[
+    {
+        "Author": "Tuconei",
+        "Name": "Simple Roll Tracker",
+        "InternalName": "SimpleRollTracker",
+        "AssemblyVersion": "0.4.0.0",
+        "Description": "Tracks dice rolls, captures names, and highlights winners.",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 13,
+        "LoadPriority": 0,
+        "IconUrl": "",
+        "ImageUrls": [],
+        "Punchline": "Simple roll tracker for venues.",
+        "DownloadLinkInstall": "https://github.com/Tuconei/SimpleRollTracker/releases/download/v0.4/SimpleRollTracker_v0.4.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": 1700000000
+    }
+
+]
+
+
