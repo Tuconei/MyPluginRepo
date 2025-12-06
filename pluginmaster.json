@@ -3,7 +3,7 @@
     "Author": "Tuconei",
     "Name": "VIP Name Checker",
     "InternalName": "VipNameChecker",
-    "AssemblyVersion": "1.0.1.0",
+    "AssemblyVersion": "1.0.3.0",
     "Description": "Highlights VIP players from a Google Sheet.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
@@ -18,15 +18,15 @@
     "IconUrl": "",
     "ImageUrls": [],
     "Punchline": "Highlights specific players from a google sheet.",
-    "DownloadLinkInstall": "https://github.com/Tuconei/VIP-Manager/releases/download/v0.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Tuconei/VIP-Manager/releases/download/v0.2/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Tuconei/VIP-Manager/releases/download/v0.2/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Tuconei/VIP-Manager/releases/download/v0.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Tuconei/VIP-Manager/releases/download/v0.3/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Tuconei/VIP-Manager/releases/download/v0.3/latest.zip"
   },
   {
     "Author": "Tuconei",
     "Name": "Simple Roll Tracker",
     "InternalName": "SimpleRollTracker",
-    "AssemblyVersion": "0.4.0.0",
+    "AssemblyVersion": "1.0.0.0",
     "Description": "Tracks dice rolls, captures names, and highlights winners.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
