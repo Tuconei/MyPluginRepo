@@ -26,7 +26,7 @@
     "Author": "Tuconei",
     "Name": "Simple Roll Tracker",
     "InternalName": "SimpleRollTracker",
-    "AssemblyVersion": "1.0.6.0",
+    "AssemblyVersion": "1.0.0.0",
     "Description": "Tracks dice rolls, captures names, and highlights winners.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
