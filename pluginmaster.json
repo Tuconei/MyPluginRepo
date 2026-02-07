@@ -3,7 +3,7 @@
     "Author": "Tuconei",
     "Name": "VIP Name Checker",
     "InternalName": "VipNameChecker",
-    "AssemblyVersion": "1.0.7.0",
+    "AssemblyVersion": "1.0.8.0",
     "Description": "Highlights VIP players from a Google Sheet.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
@@ -18,9 +18,9 @@
     "IconUrl": "",
     "ImageUrls": [],
     "Punchline": "Highlights specific players from a google sheet.",
-    "DownloadLinkInstall": "https://github.com/Tuconei/VIP-Manager/releases/download/v0.7/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Tuconei/VIP-Manager/releases/download/v0.7/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Tuconei/VIP-Manager/releases/download/v0.7/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Tuconei/VIP-Manager/releases/download/v0.8/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Tuconei/VIP-Manager/releases/download/v0.8/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Tuconei/VIP-Manager/releases/download/v0.8/latest.zip"
   },
   {
     "Author": "Tuconei",
