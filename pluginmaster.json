@@ -6,7 +6,7 @@
     "AssemblyVersion": "1.2.0.0",
     "Description": "Highlights VIP players from a Google Sheet.",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
     "Tags": [
       "utility",
       "vip"
@@ -29,7 +29,7 @@
     "AssemblyVersion": "1.1.0.0",
     "Description": "Tracks dice rolls, captures names, and highlights winners.",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
     "LoadPriority": 0,
     "IconUrl": "",
     "ImageUrls": [],
