@@ -48,7 +48,7 @@
   {
     "Author": "Tuconei",
     "Name": "EzFauxHollows",
-    "InternalName": "EzFauxHollows",
+    "InternalName": "FauxHollowsSolver",
     "AssemblyVersion": "1.5.1.2",
     "Description": "Solves Faux Hollows boards; fork of the original plugin.",
     "Punchline": "Makes solving Faux Hollows boards easier.",
