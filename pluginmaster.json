@@ -72,10 +72,10 @@
     "Author": "Tuconei",
     "Name": "ShotTracker",
     "InternalName": "ShotTracker",
-    "AssemblyVersion": "0.1.1.0",
-    "Description": "Verifies matching incoming gil trades before granting purchased rolls, listens for the active player's /random rolls, applies configurable win and reroll rules, and maintains a persistent jackpot and nightly ledger. Open with /shottracker.",
-    "Punchline": "Track venue gamba shots, verified payments, rolls, payouts, and nightly cuts.",
-    "Changelog": "Adds exact incoming gil trade verification, mismatch reporting, and verified/manual ledger labels.",
+    "AssemblyVersion": "0.1.2.0",
+    "Description": "Accumulates verified incoming gil trades before granting purchased rolls, supports targeted participant selection, listens for the active player's /random rolls, applies configurable win and reroll rules, and maintains a persistent jackpot and nightly ledger. Open with /shottracker.",
+    "Punchline": "Track venue gamba shots, incremental verified payments, rolls, payouts, and nightly cuts.",
+    "Changelog": "Accumulates multiple capped gil trades toward any valid shot-price total and adds targeted player selection.",
     "RepoUrl": "https://github.com/Tuconei/ShotTracker",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -88,9 +88,9 @@
     "IsTestingExclusive": false,
     "IconUrl": "",
     "ImageUrls": [],
-    "DownloadLinkInstall": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.1/ShotTracker-v0.1.1.zip",
-    "DownloadLinkUpdate": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.1/ShotTracker-v0.1.1.zip",
-    "DownloadLinkTesting": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.1/ShotTracker-v0.1.1.zip",
-    "LastUpdate": 1781469614
+    "DownloadLinkInstall": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.2/ShotTracker-v0.1.2.zip",
+    "DownloadLinkUpdate": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.2/ShotTracker-v0.1.2.zip",
+    "DownloadLinkTesting": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.2/ShotTracker-v0.1.2.zip",
+    "LastUpdate": 1781481392
   }
 ]
