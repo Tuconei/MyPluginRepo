@@ -72,9 +72,10 @@
     "Author": "Tuconei",
     "Name": "ShotTracker",
     "InternalName": "ShotTracker",
-    "AssemblyVersion": "0.1.0.0",
-    "Description": "Records participant trades, listens for the active player's /random rolls, applies configurable win and reroll rules, and maintains a persistent jackpot and nightly ledger. Open with /shottracker.",
-    "Punchline": "Track venue gamba shots, rolls, payouts, and nightly cuts.",
+    "AssemblyVersion": "0.1.1.0",
+    "Description": "Verifies matching incoming gil trades before granting purchased rolls, listens for the active player's /random rolls, applies configurable win and reroll rules, and maintains a persistent jackpot and nightly ledger. Open with /shottracker.",
+    "Punchline": "Track venue gamba shots, verified payments, rolls, payouts, and nightly cuts.",
+    "Changelog": "Adds exact incoming gil trade verification, mismatch reporting, and verified/manual ledger labels.",
     "RepoUrl": "https://github.com/Tuconei/ShotTracker",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -87,9 +88,9 @@
     "IsTestingExclusive": false,
     "IconUrl": "",
     "ImageUrls": [],
-    "DownloadLinkInstall": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.0/ShotTracker-v0.1.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.0/ShotTracker-v0.1.0.zip",
-    "DownloadLinkTesting": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.0/ShotTracker-v0.1.0.zip",
-    "LastUpdate": 1781463036
+    "DownloadLinkInstall": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.1/ShotTracker-v0.1.1.zip",
+    "DownloadLinkUpdate": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.1/ShotTracker-v0.1.1.zip",
+    "DownloadLinkTesting": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.1/ShotTracker-v0.1.1.zip",
+    "LastUpdate": 1781469614
   }
 ]
