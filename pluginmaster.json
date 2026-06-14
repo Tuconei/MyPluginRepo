@@ -4,63 +4,69 @@
     "Name": "VIP Name Checker",
     "InternalName": "VipNameChecker",
     "AssemblyVersion": "1.2.1.0",
-    "Description": "Highlights VIP players from a Google Sheet.",
+    "Description": "Draws a VIP indicator next to players listed in a Google Sheet.",
+    "Punchline": "Highlights specific players from a Google Sheet.",
+    "RepoUrl": "https://github.com/Tuconei/VIP-Manager",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Tags": [
       "utility",
       "vip"
     ],
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanLoadAsync": false,
-    "SupportsProfiles": true,
+    "IsHide": false,
+    "IsTestingExclusive": false,
     "IconUrl": "",
     "ImageUrls": [],
-    "Punchline": "Highlights specific players from a google sheet.",
     "DownloadLinkInstall": "https://github.com/Tuconei/VIP-Manager/releases/download/v1.2.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Tuconei/VIP-Manager/releases/download/v1.2.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Tuconei/VIP-Manager/releases/download/v1.2.1/latest.zip"
+    "DownloadLinkTesting": "https://github.com/Tuconei/VIP-Manager/releases/download/v1.2.1/latest.zip",
+    "LastUpdate": 1780176501
   },
   {
     "Author": "Tuconei",
     "Name": "Simple Roll Tracker",
     "InternalName": "SimpleRollTracker",
     "AssemblyVersion": "0.9.0.0",
-    "Description": "Tracks dice rolls, captures names, and highlights winners.",
+    "Description": "Tracks dice rolls, captures player names, and highlights winners.",
+    "Punchline": "Simple roll tracking for venues.",
+    "RepoUrl": "https://github.com/Tuconei/SimpleRollTracker",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "LoadPriority": 0,
-    "IconUrl": "",
-    "ImageUrls": [],
-    "Punchline": "Simple roll tracker for venues.",
-    "DownloadLinkInstall": "https://github.com/Tuconei/SimpleRollTracker/releases/download/v0.9/SimpleRollTracker_v0.9.zip",
+    "Tags": [
+      "utility",
+      "rolls"
+    ],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1700000000
+    "IconUrl": "",
+    "ImageUrls": [],
+    "DownloadLinkInstall": "https://github.com/Tuconei/SimpleRollTracker/releases/download/v0.9/SimpleRollTracker_v0.9.zip",
+    "DownloadLinkUpdate": "https://github.com/Tuconei/SimpleRollTracker/releases/download/v0.9/SimpleRollTracker_v0.9.zip",
+    "DownloadLinkTesting": "https://github.com/Tuconei/SimpleRollTracker/releases/download/v0.9/SimpleRollTracker_v0.9.zip",
+    "LastUpdate": 1781068081
   },
   {
     "Author": "Tuconei",
     "Name": "EzFauxHollows",
     "InternalName": "EzFauxHollows",
     "AssemblyVersion": "1.5.1.2",
-    "Description": "Solves Faux Hollows, fork of the old one",
+    "Description": "Solves Faux Hollows boards; fork of the original plugin.",
+    "Punchline": "Makes solving Faux Hollows boards easier.",
+    "RepoUrl": "https://github.com/Tuconei/EzFauxHollows",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Tags": [
       "utility",
       "content"
     ],
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanLoadAsync": false,
-    "SupportsProfiles": true,
+    "IsHide": false,
+    "IsTestingExclusive": false,
     "IconUrl": "",
     "ImageUrls": [],
-    "Punchline": "",
     "DownloadLinkInstall": "https://github.com/Tuconei/EzFauxHollows/releases/download/v1.5.1.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Tuconei/EzFauxHollows/releases/download/v1.5.1.2/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Tuconei/EzFauxHollows/releases/download/v1.5.1.2/latest.zip"
+    "DownloadLinkTesting": "https://github.com/Tuconei/EzFauxHollows/releases/download/v1.5.1.2/latest.zip",
+    "LastUpdate": 1779683986
   },
   {
     "Author": "Tuconei",
@@ -68,6 +74,8 @@
     "InternalName": "ShotTracker",
     "AssemblyVersion": "0.1.0.0",
     "Description": "Records participant trades, listens for the active player's /random rolls, applies configurable win and reroll rules, and maintains a persistent jackpot and nightly ledger. Open with /shottracker.",
+    "Punchline": "Track venue gamba shots, rolls, payouts, and nightly cuts.",
+    "RepoUrl": "https://github.com/Tuconei/ShotTracker",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Tags": [
@@ -75,15 +83,13 @@
       "rolls",
       "ledger"
     ],
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanLoadAsync": false,
-    "SupportsProfiles": true,
+    "IsHide": false,
+    "IsTestingExclusive": false,
     "IconUrl": "",
     "ImageUrls": [],
-    "Punchline": "Track venue gamba shots, rolls, payouts, and nightly cuts.",
     "DownloadLinkInstall": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.0/ShotTracker-v0.1.0.zip",
     "DownloadLinkUpdate": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.0/ShotTracker-v0.1.0.zip",
-    "DownloadLinkTesting": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.0/ShotTracker-v0.1.0.zip"
+    "DownloadLinkTesting": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.0/ShotTracker-v0.1.0.zip",
+    "LastUpdate": 1781463036
   }
 ]
