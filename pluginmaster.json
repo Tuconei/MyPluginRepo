@@ -9,10 +9,7 @@
     "RepoUrl": "https://github.com/Tuconei/VIP-Manager",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "Tags": [
-      "utility",
-      "vip"
-    ],
+    "Tags": ["utility", "vip"],
     "IsHide": false,
     "IsTestingExclusive": false,
     "IconUrl": "",
@@ -32,10 +29,7 @@
     "RepoUrl": "https://github.com/Tuconei/SimpleRollTracker",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "Tags": [
-      "utility",
-      "rolls"
-    ],
+    "Tags": ["utility", "rolls"],
     "IsHide": false,
     "IsTestingExclusive": false,
     "IconUrl": "",
@@ -55,10 +49,7 @@
     "RepoUrl": "https://github.com/Tuconei/EzFauxHollows",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "Tags": [
-      "utility",
-      "content"
-    ],
+    "Tags": ["utility", "content"],
     "IsHide": false,
     "IsTestingExclusive": false,
     "IconUrl": "",
@@ -72,26 +63,22 @@
     "Author": "Tuconei",
     "Name": "ShotTracker",
     "InternalName": "ShotTracker",
-    "AssemblyVersion": "0.1.2.0",
-    "Description": "Accumulates verified incoming gil trades before granting purchased rolls, supports targeted participant selection, listens for the active player's /random rolls, applies configurable win and reroll rules, and maintains a persistent jackpot and nightly ledger. Open with /shottracker.",
-    "Punchline": "Track venue gamba shots, incremental verified payments, rolls, payouts, and nightly cuts.",
-    "Changelog": "Accumulates multiple capped gil trades toward any valid shot-price total and adds targeted player selection.",
+    "AssemblyVersion": "0.1.3.0",
+    "Description": "Verifies incoming gil through FFXIV structured log messages, accumulates multiple payments, supports targeted participant selection, tracks /random rolls, configurable wins, payouts, jackpot, and nightly cuts. Open with /shottracker.",
+    "Punchline": "Track venue shots with structured payment verification and visible diagnostics.",
+    "Changelog": "Uses Dalamud structured LogMessage events for trade detection and shows live trade diagnostics in the plugin window and /xllog.",
     "RepoUrl": "https://github.com/Tuconei/ShotTracker",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "Tags": [
-      "venue",
-      "rolls",
-      "ledger"
-    ],
+    "Tags": ["venue", "rolls", "ledger"],
     "IsHide": false,
     "IsTestingExclusive": false,
     "IconUrl": "",
     "ImageUrls": [],
-    "DownloadLinkInstall": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.2/ShotTracker-v0.1.2.zip",
-    "DownloadLinkUpdate": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.2/ShotTracker-v0.1.2.zip",
-    "DownloadLinkTesting": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.2/ShotTracker-v0.1.2.zip",
-    "LastUpdate": 1781481392
+    "DownloadLinkInstall": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.3/ShotTracker-v0.1.3.zip",
+    "DownloadLinkUpdate": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.3/ShotTracker-v0.1.3.zip",
+    "DownloadLinkTesting": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.3/ShotTracker-v0.1.3.zip",
+    "LastUpdate": 1781481971
   },
   {
     "Author": "Tuconei",
@@ -104,12 +91,7 @@
     "RepoUrl": "https://github.com/Tuconei/ReShout",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "Tags": [
-      "venue",
-      "shout",
-      "yell",
-      "scheduling"
-    ],
+    "Tags": ["venue", "shout", "yell", "scheduling"],
     "IsHide": false,
     "IsTestingExclusive": false,
     "IconUrl": "",
