@@ -63,10 +63,10 @@
     "Author": "Tuconei",
     "Name": "ShotTracker",
     "InternalName": "ShotTracker",
-    "AssemblyVersion": "0.1.3.0",
+    "AssemblyVersion": "0.1.4.0",
     "Description": "Verifies incoming gil through FFXIV structured log messages, accumulates multiple payments, supports targeted participant selection, tracks /random rolls, configurable wins, payouts, jackpot, and nightly cuts. Open with /shottracker.",
-    "Punchline": "Track venue shots with structured payment verification and visible diagnostics.",
-    "Changelog": "Uses Dalamud structured LogMessage events for trade detection and shows live trade diagnostics in the plugin window and /xllog.",
+    "Punchline": "Track venue shots with verified payments, rolls, payouts, and nightly cuts.",
+    "Changelog": "Removes temporary trade diagnostics while retaining working structured payment verification, incremental payments, and duplicate protection.",
     "RepoUrl": "https://github.com/Tuconei/ShotTracker",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -75,10 +75,10 @@
     "IsTestingExclusive": false,
     "IconUrl": "",
     "ImageUrls": [],
-    "DownloadLinkInstall": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.3/ShotTracker-v0.1.3.zip",
-    "DownloadLinkUpdate": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.3/ShotTracker-v0.1.3.zip",
-    "DownloadLinkTesting": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.3/ShotTracker-v0.1.3.zip",
-    "LastUpdate": 1781481971
+    "DownloadLinkInstall": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.4/ShotTracker-v0.1.4.zip",
+    "DownloadLinkUpdate": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.4/ShotTracker-v0.1.4.zip",
+    "DownloadLinkTesting": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.4/ShotTracker-v0.1.4.zip",
+    "LastUpdate": 1781482297
   },
   {
     "Author": "Tuconei",
