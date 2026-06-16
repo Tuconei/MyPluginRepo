@@ -72,10 +72,10 @@
     "Author": "Tuconei",
     "Name": "ShotTracker",
     "InternalName": "ShotTracker",
-    "AssemblyVersion": "0.1.8.0",
+    "AssemblyVersion": "0.1.9.0",
     "Description": "Verifies incoming gil, tracks venue rolls, winning ranges, gil payouts, and named non-gil prizes, and synchronizes complete ledgers through CSV. Open with /shottracker.",
     "Punchline": "Track venue rolls, configurable wins, prizes, payments, and payouts.",
-    "Changelog": "Adds reusable win-action profiles for announcement settings: configure a default profile, apply it to every winning rule, copy/paste actions between rules, and save a rule's actions as the new default. New winning rules inherit the default profile automatically.",
+    "Changelog": "Adds named venue profiles for bartenders working across multiple venues. Profiles save pricing, split percentages, jackpot balance, default win actions, and winning rules; they can be loaded, overwritten, renamed, or deleted from Settings, with loading disabled during active nights.",
     "RepoUrl": "https://github.com/Tuconei/ShotTracker",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -88,10 +88,10 @@
     "IsTestingExclusive": false,
     "IconUrl": "",
     "ImageUrls": [],
-    "DownloadLinkInstall": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.8/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.8/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.8/latest.zip",
-    "LastUpdate": 1781630059
+    "DownloadLinkInstall": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.9/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.9/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.9/latest.zip",
+    "LastUpdate": 1781633020
   },
   {
     "Author": "Tuconei",
