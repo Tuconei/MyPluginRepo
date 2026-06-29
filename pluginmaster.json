@@ -24,11 +24,12 @@
   },
   {
     "Author": "Tuconei",
-    "Name": "Simple Roll Tracker",
+    "Name": "Simple Roll Tracker TEST",
     "InternalName": "SimpleRollTracker",
-    "AssemblyVersion": "0.9.1.0",
-    "Description": "Tracks dice rolls, captures player names, and highlights winners.",
-    "Punchline": "Simple roll tracking for venues.",
+    "AssemblyVersion": "0.9.2.0",
+    "Description": "Testing build for automatic roll rounds with multiple prioritized win rules, timed rounds, countdowns, winner announcements, and automatic archiving.",
+    "Punchline": "Simple roll tracking automatic mode test build.",
+    "Changelog": "Adds automatic mode with timed rounds, configurable open/countdown/close macros, prioritized high/low/threshold/exact win rules, exact-number override support, per-rule consecutive-winner prevention, templated announcements, and automatic round archiving.",
     "RepoUrl": "https://github.com/Tuconei/SimpleRollTracker",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -37,13 +38,13 @@
       "rolls"
     ],
     "IsHide": false,
-    "IsTestingExclusive": false,
+    "IsTestingExclusive": true,
     "IconUrl": "",
     "ImageUrls": [],
-    "DownloadLinkInstall": "https://github.com/Tuconei/SimpleRollTracker/releases/download/v0.9.1/SimpleRollTracker_v0.9.1.zip",
-    "DownloadLinkUpdate": "https://github.com/Tuconei/SimpleRollTracker/releases/download/v0.9.1/SimpleRollTracker_v0.9.1.zip",
-    "DownloadLinkTesting": "https://github.com/Tuconei/SimpleRollTracker/releases/download/v0.9.1/SimpleRollTracker_v0.9.1.zip",
-    "LastUpdate": 1781505084
+    "DownloadLinkInstall": "https://github.com/Tuconei/SimpleRollTracker/releases/download/v0.9.2-test/SimpleRollTracker_v0.9.2-test-debug.zip",
+    "DownloadLinkUpdate": "https://github.com/Tuconei/SimpleRollTracker/releases/download/v0.9.2-test/SimpleRollTracker_v0.9.2-test-debug.zip",
+    "DownloadLinkTesting": "https://github.com/Tuconei/SimpleRollTracker/releases/download/v0.9.2-test/SimpleRollTracker_v0.9.2-test-debug.zip",
+    "LastUpdate": 1782767337
   },
   {
     "Author": "Tuconei",
