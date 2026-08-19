@@ -72,7 +72,7 @@
     "Author": "Tuconei",
     "Name": "ShotTracker",
     "InternalName": "ShotTracker",
-    "AssemblyVersion": "0.1.10.0",
+    "AssemblyVersion": "0.1.11.0",
     "Description": "Verifies incoming gil, tracks venue rolls and payouts, supports configurable win and exhausted-roll announcements, handles jackpot or house-funded fixed payouts, and synchronizes bartender ledgers by CSV. Open with /shottracker.",
     "Punchline": "Track and synchronize venue shots, payments, rolls, payouts, and announcements.",
     "Changelog": "Adds paid-rolls-exhausted messages, sends final-roll win notifications before exhaustion notices, spaces notification commands to avoid chat throttling, and lets fixed gil awards be paid by the house instead of the jackpot while preserving payout totals and CSV sync.",
@@ -88,10 +88,10 @@
     "IsTestingExclusive": false,
     "IconUrl": "",
     "ImageUrls": [],
-    "DownloadLinkInstall": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.10/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.10/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.10/latest.zip",
-    "LastUpdate": 1781898600
+    "DownloadLinkInstall": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.11/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.11/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Tuconei/ShotTracker/releases/download/v0.1.11/latest.zip",
+    "LastUpdate": 1787176431
   },
   {
     "Author": "Tuconei",
