@@ -26,7 +26,7 @@
     "Author": "Tuconei",
     "Name": "Simple Roll Tracker",
     "InternalName": "SimpleRollTracker",
-    "AssemblyVersion": "0.9.1.0",
+    "AssemblyVersion": "0.9.2.0",
     "Description": "Tracks dice rolls, captures player names, and highlights winners.",
     "Punchline": "Simple roll tracking for venues.",
     "RepoUrl": "https://github.com/Tuconei/SimpleRollTracker",
@@ -40,10 +40,10 @@
     "IsTestingExclusive": false,
     "IconUrl": "",
     "ImageUrls": [],
-    "DownloadLinkInstall": "https://github.com/Tuconei/SimpleRollTracker/releases/download/v0.9.1/SimpleRollTracker_v0.9.1.zip",
-    "DownloadLinkUpdate": "https://github.com/Tuconei/SimpleRollTracker/releases/download/v0.9.1/SimpleRollTracker_v0.9.1.zip",
-    "DownloadLinkTesting": "https://github.com/Tuconei/SimpleRollTracker/releases/download/v0.9.1/SimpleRollTracker_v0.9.1.zip",
-    "LastUpdate": 1781505084
+    "DownloadLinkInstall": "https://github.com/Tuconei/SimpleRollTracker/releases/download/v0.9.2/SimpleRollTracker_v0.9.2.zip",
+    "DownloadLinkUpdate": "https://github.com/Tuconei/SimpleRollTracker/releases/download/v0.9.2/SimpleRollTracker_v0.9.2.zip",
+    "DownloadLinkTesting": "https://github.com/Tuconei/SimpleRollTracker/releases/download/v0.9.2/SimpleRollTracker_v0.9.2.zip",
+    "LastUpdate": 1787175519
   },
   {
     "Author": "Tuconei",
