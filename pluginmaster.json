@@ -97,10 +97,10 @@
     "Author": "Tuconei",
     "Name": "ReShout",
     "InternalName": "ReShout",
-    "AssemblyVersion": "0.1.2.0",
+    "AssemblyVersion": "0.1.3.0",
     "Description": "Schedules repeatable shout or yell messages at minute intervals or specific local military times. Supports multiline macro-style messages and wait commands. Open with /reshout.",
     "Punchline": "Schedule multiline venue shouts and yells.",
-    "Changelog": "Fixes the schedule delete confirmation popup so saved schedules can be removed from the manager.",
+    "Changelog": "Hardens release builds to avoid local path metadata in shipped artifacts and preserves the schedule delete confirmation fix.",
     "RepoUrl": "https://github.com/Tuconei/ReShout",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -114,10 +114,10 @@
     "IsTestingExclusive": false,
     "IconUrl": "",
     "ImageUrls": [],
-    "DownloadLinkInstall": "https://github.com/Tuconei/ReShout/releases/download/v0.1.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Tuconei/ReShout/releases/download/v0.1.2/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Tuconei/ReShout/releases/download/v0.1.2/latest.zip",
-    "LastUpdate": 1781734777
+    "DownloadLinkInstall": "https://github.com/Tuconei/ReShout/releases/download/v0.1.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Tuconei/ReShout/releases/download/v0.1.3/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Tuconei/ReShout/releases/download/v0.1.3/latest.zip",
+    "LastUpdate": 1787176121
   },
   {
     "Author": "Tuconei",
