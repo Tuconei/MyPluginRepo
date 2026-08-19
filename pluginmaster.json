@@ -123,7 +123,7 @@
     "Author": "Tuconei",
     "Name": "All In War",
     "InternalName": "AllInWar",
-    "AssemblyVersion": "0.1.1.0",
+    "AssemblyVersion": "0.1.2.0",
     "Description": "Table assistant for All In War. Use /allinwar to seat players, record antes and card rolls, resolve wars, calculate rake, and track settlement trades.",
     "Punchline": "Runs and records All In War table rounds.",
     "Changelog": "Adds configurable chat announcements for rules, collection/trading, and winner messages. Announcement chat command defaults to /party and remains configurable in settings.",
@@ -139,9 +139,9 @@
     "IsTestingExclusive": false,
     "IconUrl": "",
     "ImageUrls": [],
-    "DownloadLinkInstall": "https://github.com/Tuconei/AllInWar/releases/download/v0.1.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Tuconei/AllInWar/releases/download/v0.1.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Tuconei/AllInWar/releases/download/v0.1.1/latest.zip",
-    "LastUpdate": 1786325603
+    "DownloadLinkInstall": "https://github.com/Tuconei/AllInWar/releases/download/v0.1.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Tuconei/AllInWar/releases/download/v0.1.2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Tuconei/AllInWar/releases/download/v0.1.2/latest.zip",
+    "LastUpdate": 1787176129
   }
 ]
