@@ -19,10 +19,10 @@
     "ImageUrls": [],
     "DownloadLinkInstall": "https://github.com/Tuconei/VIP-Manager/releases/download/v1.2.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Tuconei/VIP-Manager/releases/download/v1.2.3/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Tuconei/VIP-Manager/releases/download/v1.3.0.2-testing/latest.zip",
-    "TestingAssemblyVersion": "1.3.0.2",
+    "DownloadLinkTesting": "https://github.com/Tuconei/VIP-Manager/releases/download/v1.3.0.3-testing/latest.zip",
+    "TestingAssemblyVersion": "1.3.0.3",
     "TestingDalamudApiLevel": 15,
-    "TestingChangelog": "Opt-in native title prefix/suffix and FC-tag suffix, RGB color, and per-profile enabled persistence. Floating remains default. Before in-process disable/update/reload, use /vip native prepare-unload and wait for acknowledgement plus visual cleanup; /vip native disarm saves off. Session-added names remain temporary.",
+    "TestingChangelog": "Adds Open linked Google Sheet for the active profile in your default browser, with sheet-ID validation. Native placements, RGB, and enabled persistence retained. Before in-process update, use /vip native prepare-unload and wait for acknowledgement plus visual cleanup. Testing only; live button click not yet verified.",
     "LastUpdate": 1787176131
   },
   {
