@@ -19,10 +19,10 @@
     "ImageUrls": [],
     "DownloadLinkInstall": "https://github.com/Tuconei/VIP-Manager/releases/download/v1.2.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Tuconei/VIP-Manager/releases/download/v1.2.3/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Tuconei/VIP-Manager/releases/download/v1.3.0.3-testing/latest.zip",
-    "TestingAssemblyVersion": "1.3.0.3",
+    "DownloadLinkTesting": "https://github.com/Tuconei/VIP-Manager/releases/download/v1.3.0.4-testing/latest.zip",
+    "TestingAssemblyVersion": "1.3.0.4",
     "TestingDalamudApiLevel": 15,
-    "TestingChangelog": "Adds Open linked Google Sheet for the active profile in your default browser, with sheet-ID validation. Native placements, RGB, and enabled persistence retained. Before in-process update, use /vip native prepare-unload and wait for acknowledgement plus visual cleanup. Testing only; live button click not yet verified.",
+    "TestingChangelog": "Adds an in-game /vip help window, overlay/reload/sheet/status commands, and explicit on/off/toggle controls. Before in-process update, run /vip native prepare-unload and wait for acknowledgement plus visual cleanup. Testing only; in-game validation pending.",
     "LastUpdate": 1787176131
   },
   {
